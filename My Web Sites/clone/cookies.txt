@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+geetauniversity.com	TRUE	/	FALSE	1999999999	ci_session	scbrpg2olvlva53m3mr99saiudrddac0
+geetauniversity.com	TRUE	/	FALSE	1999999999	SameSite	Lax
+

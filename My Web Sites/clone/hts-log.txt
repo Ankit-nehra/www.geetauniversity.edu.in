@@ -1,0 +1,29 @@
+HTTrack3.49-2+htsswf+htsjava launched on Mon, 28 Apr 2025 07:23:49 at https://geetauniversity.com/login +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://geetauniversity.com/login -O1 "C:\My Web Sites\clone" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+07:25:06	Error: 	"Unprocessable Entity" (422) at link https://geetauniversity.com/assets/images/other-images/maintenance-bg.jpg (from https://geetauniversity.com/assets/css/style.css?v=3)
+07:25:06	Error: 	"Unprocessable Entity" (422) at link https://geetauniversity.com/assets/images/other-images/coming-soon-bg.jpg (from https://geetauniversity.com/assets/css/style.css?v=3)
+07:25:06	Error: 	"Unprocessable Entity" (422) at link https://geetauniversity.com/assets/images/sidebar-pattern/1.png (from https://geetauniversity.com/assets/css/style.css?v=3)
+07:25:06	Error: 	"Unprocessable Entity" (422) at link https://geetauniversity.com/assets/images/sidebar-image/1.jpg (from https://geetauniversity.com/assets/css/style.css?v=3)
+07:25:06	Error: 	"Unprocessable Entity" (422) at link https://geetauniversity.com/assets/images/sidebar-pattern/2.png (from https://geetauniversity.com/assets/css/style.css?v=3)
+07:25:06	Error: 	"Unprocessable Entity" (422) at link https://geetauniversity.com/assets/images/sidebar-image/2.jpg (from https://geetauniversity.com/assets/css/style.css?v=3)
+07:25:06	Error: 	"Unprocessable Entity" (422) at link https://geetauniversity.com/assets/images/sidebar-pattern/3.png (from https://geetauniversity.com/assets/css/style.css?v=3)
+07:25:06	Error: 	"Unprocessable Entity" (422) at link https://geetauniversity.com/assets/images/sidebar-image/3.jpg (from https://geetauniversity.com/assets/css/style.css?v=3)
+07:25:06	Error: 	"Unprocessable Entity" (422) at link https://geetauniversity.com/assets/images/sidebar-pattern/4.png (from https://geetauniversity.com/assets/css/style.css?v=3)
+07:25:06	Error: 	"Unprocessable Entity" (422) at link https://geetauniversity.com/assets/images/sidebar-image/4.jpg (from https://geetauniversity.com/assets/css/style.css?v=3)
+07:25:06	Error: 	"Unprocessable Entity" (422) at link https://geetauniversity.com/assets/images/sidebar-pattern/5.png (from https://geetauniversity.com/assets/css/style.css?v=3)
+07:25:06	Error: 	"Unprocessable Entity" (422) at link https://geetauniversity.com/assets/images/sidebar-image/5.jpg (from https://geetauniversity.com/assets/css/style.css?v=3)
+07:25:06	Error: 	"Unprocessable Entity" (422) at link https://geetauniversity.com/assets/images/sidebar-pattern/6.png (from https://geetauniversity.com/assets/css/style.css?v=3)
+07:25:06	Error: 	"Unprocessable Entity" (422) at link https://geetauniversity.com/assets/images/sidebar-image/6.jpg (from https://geetauniversity.com/assets/css/style.css?v=3)
+07:25:06	Error: 	"Unprocessable Entity" (422) at link https://geetauniversity.com/assets/images/other-images/mobile-clock-wallpaper.jpg (from https://geetauniversity.com/assets/css/style.css?v=3)
+07:25:06	Error: 	"Unprocessable Entity" (422) at link https://geetauniversity.com/assets/images/other-images/clock-face.png (from https://geetauniversity.com/assets/css/style.css?v=3)
+07:25:06	Error: 	"Unprocessable Entity" (422) at link https://geetauniversity.com/assets/images/other-images/calender-bg.png (from https://geetauniversity.com/assets/css/style.css?v=3)
+07:25:06	Error: 	"Unprocessable Entity" (422) at link https://geetauniversity.com/assets/images/dashboard-2/target1.png (from https://geetauniversity.com/assets/css/style.css?v=3)
+
+HTTrack Website Copier/3.49-2 mirror complete in 1 minutes 17 seconds : 59 links scanned, 40 files written (4980825 bytes overall) [2751131 bytes received at 35728 bytes/sec], 3161667 bytes transferred using HTTP compression in 25 files, ratio 28%, 6.5 requests per connection
+(18 errors, 0 warnings, 0 messages)
